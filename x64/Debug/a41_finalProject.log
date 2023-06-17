@@ -1,0 +1,3 @@
+﻿  a41_finalProject.cpp
+D:\Courses\CS_FOundations\C++\visual_studio_c++_repo\a41_finalProject\a41_finalProject.cpp(49): warning C4715: 'getChoice': not all control paths return a value
+  a41_finalProject.vcxproj -> D:\Courses\CS_FOundations\C++\visual_studio_c++_repo\a41_finalProject\x64\Debug\a41_finalProject.exe
